@@ -1,0 +1,13 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore credentials
+token.json
+credentials.json
+resume.pdf
+sent_log.csv
+
+# Ignore virtual environment
+.venv/
+.env
